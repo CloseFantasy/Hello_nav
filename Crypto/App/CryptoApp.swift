@@ -2,4 +2,4 @@
 //  CryptoApp.swift
 //  Crypto
 //
-//  Creat
+//  Created by Zhenya Pavlovskyi o
