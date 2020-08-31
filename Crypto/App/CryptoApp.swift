@@ -13,4 +13,5 @@ struct CryptoApp: App {
         WindowGroup {
             ContentView()
         }
-  
+    }
+}
