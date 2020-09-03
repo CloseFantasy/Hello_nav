@@ -12,3 +12,11 @@ struct DetailsView: View {
     var body: some View {
         Text("Hello")
     }
+}
+
+
+struct DetailsView_Previews: PreviewProvider {
+    static var previews: some View {
+        DetailsView()
+    }
+}
