@@ -2,4 +2,4 @@
 //  ContentView.swift
 //  Crypto
 //
-//  Created by Zhenya Pavlo
+//  Created by Zhenya Pavlovskyi on 07.11.
