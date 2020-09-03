@@ -2,4 +2,4 @@
 //  ContentView.swift
 //  Crypto
 //
-//  Cr
+//  Created by Zhenya Pavlo
