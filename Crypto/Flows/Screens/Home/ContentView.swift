@@ -9,4 +9,4 @@ import SwiftUI
 
 struct ContentView: View {
     
-    @S
+    @State private var anim
