@@ -7,4 +7,6 @@
 
 import SwiftUI
 
-struct ContentView:
+struct ContentView: View {
+    
+    @S
