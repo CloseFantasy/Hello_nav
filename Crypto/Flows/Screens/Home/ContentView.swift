@@ -17,4 +17,4 @@ struct ContentView: View {
             Image("HomeBackgroun")
                 .ignoresSafeArea()
             
-   
+            VStack(
