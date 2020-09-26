@@ -10,4 +10,6 @@ import SwiftUI
 struct ContentView: View {
     
     @State private var animate = false
-    @State private var animation
+    @State private var animation = false
+    
+    var
