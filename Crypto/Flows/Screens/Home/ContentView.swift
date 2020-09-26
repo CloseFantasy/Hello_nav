@@ -15,4 +15,6 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             Image("HomeBackgroun")
-                .ignoresSafeAr
+                .ignoresSafeArea()
+            
+   
