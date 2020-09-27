@@ -17,4 +17,5 @@ struct ContentView: View {
             Image("HomeBackgroun")
                 .ignoresSafeArea()
             
-            VStack(alignment: .cente
+            VStack(alignment: .center, spacing: 5) {
+  
