@@ -19,4 +19,5 @@ struct ContentView: View {
             
             VStack(alignment: .center, spacing: 5) {
                     Text("Welcome")
-                        .fore
+                        .foregroundColor(.white)
+ 
