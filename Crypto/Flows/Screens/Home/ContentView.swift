@@ -20,4 +20,5 @@ struct ContentView: View {
             VStack(alignment: .center, spacing: 5) {
                     Text("Welcome")
                         .foregroundColor(.white)
-                        .font(.system(size: 
+                        .font(.system(size: 45))
+           
