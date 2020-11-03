@@ -26,4 +26,4 @@ struct ContentView: View {
                     Text("To the Crypto")
                         .foregroundColor(.white)
                         .font(.system(size: 35))
-         
+                       
