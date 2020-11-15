@@ -27,4 +27,4 @@ struct ContentView: View {
                         .foregroundColor(.white)
                         .font(.system(size: 35))
                         .fontWeight(.bold)
-    
+                        
