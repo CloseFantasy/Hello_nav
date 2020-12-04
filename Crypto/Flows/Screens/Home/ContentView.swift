@@ -31,4 +31,4 @@ struct ContentView: View {
             }
             
             .padding(.bottom, 600)
-            .opacity(ani
+            .opacity(animate ? 1.0 : 0.0)
