@@ -38,4 +38,5 @@ struct ContentView: View {
             
             
             HStack{
-                Butt
+                Button(action: {}, label: {
+   
