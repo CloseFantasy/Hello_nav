@@ -58,4 +58,4 @@ struct ContentView: View {
     }
 }
 
-struc
+struct ContentView_Pre
