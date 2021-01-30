@@ -58,4 +58,4 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Pre
+struct ContentView_Previews: PreviewProvider
