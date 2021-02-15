@@ -7,4 +7,5 @@
 
 import SwiftUI
 
-struct MainView: Vie
+struct MainView: View {
+    var body: some
