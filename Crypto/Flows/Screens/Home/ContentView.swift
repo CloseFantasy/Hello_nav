@@ -59,4 +59,5 @@ struct ContentView: View {
 }
 
 struct ContentView_Previews: PreviewProvider {
-    static var previews: some V
+    static var previews: some View {
+        Con
