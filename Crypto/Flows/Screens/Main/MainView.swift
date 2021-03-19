@@ -13,4 +13,5 @@ struct MainView: View {
             Color("MainListColor")
             .ignoresSafeArea()
             
-            VStack
+            VStack {
+                HSt
