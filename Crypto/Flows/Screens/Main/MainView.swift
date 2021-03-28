@@ -21,4 +21,4 @@ struct MainView: View {
             }
                 .foregroundColor(.white)
                 
-          
+                Navigation
