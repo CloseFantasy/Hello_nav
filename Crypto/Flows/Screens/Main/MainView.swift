@@ -20,3 +20,5 @@ struct MainView: View {
                     .font(.system(size: 25))
             }
                 .foregroundColor(.white)
+                
+          
