@@ -25,4 +25,5 @@ struct MainView: View {
                     Form {
                         Section {
                             HStack {
-                                Image("Bi
+                                Image("Bitcoin")
+               
