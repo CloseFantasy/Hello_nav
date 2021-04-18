@@ -32,4 +32,5 @@ struct MainView: View {
                                 Spacer()
     
                                 Text("$21,188.12")
-                                    .frame(wi
+                                    .frame(width: 110, height: 35)
+ 
