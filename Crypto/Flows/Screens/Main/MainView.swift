@@ -46,4 +46,5 @@ struct MainView: View {
                         Section {
                             HStack {
                                 Image("Litecoin")
-                                    .frame(width: 2
+                                    .frame(width: 25)
+             
