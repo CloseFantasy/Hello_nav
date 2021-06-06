@@ -51,4 +51,5 @@ struct MainView: View {
                                 Text("Litecoin")
                                 Spacer()
     
-                              
+                                Text("$68.06")
+ 
