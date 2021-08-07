@@ -61,3 +61,4 @@ struct MainView: View {
                                 .fontWeight(.bold)
                         }
                         .listRowBackground(Color("MainListColor"))
+                        .
