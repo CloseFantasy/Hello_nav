@@ -70,4 +70,5 @@ struct MainView: View {
                                     .padding(.trailing)
                                 Text("Ethereum")
                                 Spacer()
-   
+    
+                 
