@@ -71,4 +71,4 @@ struct MainView: View {
                                 Text("Ethereum")
                                 Spacer()
     
-                 
+                                Text("$1
