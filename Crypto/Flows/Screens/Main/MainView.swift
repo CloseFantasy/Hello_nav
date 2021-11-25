@@ -127,4 +127,5 @@ struct MainView: View {
                             HStack {
                                 Image("Ether")
                                     .frame(width: 25)
-                                    .padding(
+                                    .padding(.trailing)
+      
