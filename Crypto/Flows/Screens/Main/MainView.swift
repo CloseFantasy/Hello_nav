@@ -145,4 +145,5 @@ struct MainView: View {
 
                     }
                     .scrollContentBackground(.hidden)
-                    .foregroundColor(Color
+                    .foregroundColor(Color.white)
+                  
