@@ -159,3 +159,8 @@ struct MainView: View {
                 .background(Color("MainToolBarColor"))
                 .cornerRadius(15)
                 .offset(x: 140, y: +350)
+        }
+    }
+}
+
+st
