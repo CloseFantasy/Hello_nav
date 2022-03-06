@@ -163,4 +163,4 @@ struct MainView: View {
     }
 }
 
-st
+struct MainView_P
