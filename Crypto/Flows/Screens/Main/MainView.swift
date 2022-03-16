@@ -163,4 +163,4 @@ struct MainView: View {
     }
 }
 
-struct MainView_P
+struct MainView_Previews: PreviewProvider {
