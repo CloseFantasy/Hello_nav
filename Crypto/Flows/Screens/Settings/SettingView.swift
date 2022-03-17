@@ -1,2 +1,5 @@
 //
-//  SettingView.
+//  SettingView.swift
+//  Crypto
+//
+//  Creat
