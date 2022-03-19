@@ -10,4 +10,4 @@ import SwiftUI
 struct SettingView: View {
     
     
-    
+    @State private var s
