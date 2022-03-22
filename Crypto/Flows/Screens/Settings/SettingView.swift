@@ -12,4 +12,5 @@ struct SettingView: View {
     
     @State private var showGreeting = true
     
-    var body:
+    var body: some View {
+        ZStac
