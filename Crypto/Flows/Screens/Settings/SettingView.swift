@@ -19,4 +19,4 @@ struct SettingView: View {
             
             VStack {
                 HStack {
-      
+                Text("S
