@@ -19,4 +19,5 @@ struct SettingView: View {
             
             VStack {
                 HStack {
-                Text("S
+                Text("Settings")
+                 
