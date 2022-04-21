@@ -26,4 +26,5 @@ struct SettingView: View {
                     Spacer()
                     
                     Button(action: {}, label: {
-                        Image(systemName: "mu
+                        Image(systemName: "multiply")
+        
