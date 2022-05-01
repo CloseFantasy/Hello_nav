@@ -28,4 +28,5 @@ struct SettingView: View {
                     Button(action: {}, label: {
                         Image(systemName: "multiply")
                     })
-                    .offset(x: 
+                    .offset(x: -20, y: 0)
+              
