@@ -31,4 +31,5 @@ struct SettingView: View {
                     .offset(x: -20, y: 0)
                     .fontWeight(.regular)
                     .font(.system(size: 25))
-      
+            }
+                .
