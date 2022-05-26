@@ -34,4 +34,5 @@ struct SettingView: View {
             }
                 .foregroundColor(.white)
                 
-                NavigationV
+                NavigationView {
+                
