@@ -38,4 +38,5 @@ struct SettingView: View {
                     Form {
                         Section {
                             HStack {
-                                Text("
+                                Text("Notifications")
+         
