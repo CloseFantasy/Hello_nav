@@ -39,4 +39,5 @@ struct SettingView: View {
                         Section {
                             HStack {
                                 Text("Notifications")
-                                    .fontWeight(.he
+                                    .fontWeight(.heavy)
+               
