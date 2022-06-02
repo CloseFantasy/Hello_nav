@@ -40,4 +40,4 @@ struct SettingView: View {
                             HStack {
                                 Text("Notifications")
                                     .fontWeight(.heavy)
-               
+                                Spa
