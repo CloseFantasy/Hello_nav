@@ -44,4 +44,5 @@ struct SettingView: View {
                                 
                                 Toggle( isOn: $showGreeting) {}
                                     .toggleStyle(SwitchToggleStyle(tint: .white))
-                          
+                            }
+            
