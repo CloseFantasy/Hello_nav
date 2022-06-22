@@ -50,4 +50,5 @@ struct SettingView: View {
                         .frame(height: 45)
                         
                         Section {
-                            Text("Our websi
+                            Text("Our website")
+                       
