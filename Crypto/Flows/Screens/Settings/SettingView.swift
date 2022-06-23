@@ -51,4 +51,4 @@ struct SettingView: View {
                         
                         Section {
                             Text("Our website")
-                       
+                                .fontWeigh
