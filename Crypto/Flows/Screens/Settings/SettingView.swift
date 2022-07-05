@@ -63,4 +63,4 @@ struct SettingView: View {
                                 Spacer()
                                 
                                 Text("1.0")
-                                    .frame(w
+                                    .frame(width: 35, he
