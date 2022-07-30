@@ -82,4 +82,4 @@ struct SettingView: View {
         }
     }
 }
-s
+struct SettingView_Prev
