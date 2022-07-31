@@ -83,4 +83,5 @@ struct SettingView: View {
     }
 }
 struct SettingView_Previews: PreviewProvider {
-    static var pre
+    static var previews: some View {
+   
