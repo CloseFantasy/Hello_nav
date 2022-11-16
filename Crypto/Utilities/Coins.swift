@@ -2,4 +2,4 @@
 //  Coins.swift
 //  Crypto
 //
-//  Created by Zheny
+//  Created by Zhenya Pavlovskyi on 0
