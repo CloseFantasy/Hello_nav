@@ -2,4 +2,5 @@
 //  Coins.swift
 //  Crypto
 //
-//  Created by Zhenya Pavlovskyi on 0
+//  Created by Zhenya Pavlovskyi on 08.11.2022.
+//
