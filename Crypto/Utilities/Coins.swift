@@ -7,4 +7,6 @@
 
 import Foundation
 
-struct Coin: Identifiable 
+struct Coin: Identifiable {
+    
+    let imageN
