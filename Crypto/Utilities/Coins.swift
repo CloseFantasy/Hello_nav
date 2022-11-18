@@ -7,4 +7,4 @@
 
 import Foundation
 
-stru
+struct Coin: Identifiable 
