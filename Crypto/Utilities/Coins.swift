@@ -4,3 +4,7 @@
 //
 //  Created by Zhenya Pavlovskyi on 08.11.2022.
 //
+
+import Foundation
+
+stru
