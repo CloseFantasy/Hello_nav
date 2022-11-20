@@ -11,4 +11,4 @@ struct Coin: Identifiable {
     
     let imageName: String
     let name: String
-    let c
+    let cost: String
