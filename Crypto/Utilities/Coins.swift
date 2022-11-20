@@ -9,4 +9,5 @@ import Foundation
 
 struct Coin: Identifiable {
     
-    let imageN
+    let imageName: String
+    let name: 
