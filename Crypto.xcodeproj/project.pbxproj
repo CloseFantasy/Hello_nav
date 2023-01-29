@@ -175,3 +175,23 @@
 		98F63BBF2919906A00DFCBB8 /* Home */ = {
 			isa = PBXGroup;
 			children = (
+				98F63B932919732D00DFCBB8 /* ContentView.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		98F63BC0291990B200DFCBB8 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				9891F1B8291C562100443CE5 /* MainView.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		98F63BC12919917000DFCBB8 /* Details */ = {
+			isa = PBXGroup;
+			children = (
+				98F63BC8291A895800DFCBB8 /* DetailsView.swift */,
+			);
+			path = Details;
+			sourceTree = "<group>";
