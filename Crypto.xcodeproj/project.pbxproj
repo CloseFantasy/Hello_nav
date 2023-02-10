@@ -317,3 +317,18 @@
 				98F63BA72919733000DFCBB8 /* CryptoUITests */,
 			);
 		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		98F63B8C2919732D00DFCBB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98F63B992919732F00DFCBB8 /* Preview Assets.xcassets in Resources */,
+				98F63B962919732F00DFCBB8 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		98F63B9C2919733000DFCBB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
