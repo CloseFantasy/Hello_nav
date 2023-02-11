@@ -371,3 +371,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98F63BAD2919733000DFCBB8 /* CryptoUITests.swift in Sources */,
+				98F63BAF2919733000DFCBB8 /* CryptoUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		98F63BA02919733000DFCBB8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 98F63B8D2919732D00DFCBB8 /* Crypto */;
+			targetProxy = 98F63B9F2919733000DFCBB8 /* PBXContainerItemProxy */;
+		};
+		98F63BAA2919733000DFCBB8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 98F63B8D2919732D00DFCBB8 /* Crypto */;
+			targetProxy = 98F63BA92919733000DFCBB8 /* PBXContainerItemProxy */;
+		};
