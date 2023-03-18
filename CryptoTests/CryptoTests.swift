@@ -8,3 +8,4 @@
 import XCTest
 @testable import Crypto
 
+final class CryptoTe
