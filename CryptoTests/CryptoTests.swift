@@ -10,4 +10,5 @@ import XCTest
 
 final class CryptoTests: XCTestCase {
 
-    override func setUpWithErr
+    override func setUpWithError() throws {
+       
