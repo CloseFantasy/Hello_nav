@@ -8,4 +8,6 @@
 import XCTest
 @testable import Crypto
 
-final class CryptoTe
+final class CryptoTests: XCTestCase {
+
+    ov
