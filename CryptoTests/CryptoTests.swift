@@ -19,4 +19,4 @@ final class CryptoTests: XCTestCase {
     }
 
     func testExample() throws {
-        // This is an e
+        // This is an example of a functional te
